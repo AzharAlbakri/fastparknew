@@ -71,7 +71,7 @@ render() {
    
     <div>
     <Card className="mapCardN">
-      <CardImg top width="100%" src={this.props.parkInfo.image} />
+      <CardImg  src={this.props.parkInfo.image} />
       <CardBody>
         <CardTitle>{this.props.parkInfo.title}</CardTitle>
         <CardSubtitle>{this.props.parkInfo.description}</CardSubtitle>
