@@ -1,0 +1,43 @@
+#homecard {
+  margin: 0;
+  position: absolute;
+  left: 26%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-60%, 40%);
+  width: 400px;
+  padding: 10px;
+}
+
+#EndL {
+  padding-left: 146px;
+  margin-top: 10px;
+}
+#addParkEnd {
+  width: 157px;
+  margin-left: 20px;
+}
+#addParkStart {
+  width: 157px;
+}
+
+h4 {
+  padding: 20px;
+}
+
+#btn {
+  margin-top: 20px;
+  margin-left: 177px;
+  width: 157px;
+}
+#StartL {
+  margin-top: 10px;
+}
+
+#End {
+  width: 157px;
+  margin-left: 20px;
+}
+#Start {
+  width: 157px;
+}
+

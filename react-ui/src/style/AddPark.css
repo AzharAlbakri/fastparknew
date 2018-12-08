@@ -1,0 +1,18 @@
+.parkCard{
+  top:80px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  width:70%;
+}
+.card-img-top{
+  height: 300px;
+}
+.parkP {
+  padding: 20px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.bouncy {
+  margin: 0 auto;
+  width: 200px;
+}
